@@ -1,0 +1,17 @@
+# Create a pet object
+my_pet = Pet("Harchi")
+
+# Perform actions with your pet
+my_pet.eat()  # Pet eats
+my_pet.sleep()  # Pet sleeps
+my_pet.play()  # Pet plays
+
+# Check pet's status
+my_pet.get_status()
+
+# Train the pet
+my_pet.train("Sit")
+my_pet.train("Roll Over")
+
+# Show the pet's learned tricks
+my_pet.show_tricks()
