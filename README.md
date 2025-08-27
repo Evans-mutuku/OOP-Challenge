@@ -39,16 +39,14 @@ Create a class called `Pet` with the following:
 
 ## ✅ Sample Output
 
-```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
+🐕‍🦺 Rex is learning tricks...
+📋 Rex's current status:
+🍗 Hunger: 3
+⚡ Energy: 7
+😄 Happiness: 10
+🎩 Tricks: ['roll over', 'play dead', 'fetch', 'sit', 'do the monkey dance', 'jump', 'spin', 'high five', 'shake hands']
+Rex can do the following tricks: roll over, play dead, fetch, sit, do the monkey dance, jump, spin, high five, shake hands
+🐾 Rex's status:
 
 
 ### 💡 Tips
